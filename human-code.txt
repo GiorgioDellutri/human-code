@@ -3,8 +3,9 @@
     -   Guardo cosa manca in frigo AND cosa manca per il Ricky 
         - SE manca qualcosa 
             - Lo scrivo nella lista 
-        - ALTRIMENTI non lo scrivo 
-    -   Finito di scrivere la lista 
+        - ALTRIMENTI
+            - non lo scrivo 
+    -   Finisco di scrivere la lista 
 
     -   * Controllo l'orario del supermercato 
         -   SE il supermercato e' aperto 
